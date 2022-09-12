@@ -1,0 +1,1 @@
+{"success":true,"message":"Logged in!","info":{"username":"nvidia","subscriptions":[{"subscription":"default","key":"1TNS-Z465","expiry":"1977951915","timeleft":314980105}],"ip":"180.252.90.227","hwid":"S-1-5-21-3645376352-1855215850-2598883491-1001","createdate":"1662382655","lastlogin":"1662971810"}}
